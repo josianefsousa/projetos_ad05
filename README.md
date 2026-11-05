@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="icones/03-streaming-de-filmes.svg" width="88" height="88" alt="Icone do tema Streaming de filmes">
+  <img src="./icones/03-streaming-de-filmes.svg" width="88" height="88" alt="Icone do tema Streaming de filmes">
 </p>
 
 <h1 align="center">Tema 3 &mdash; Streaming de Filmes</h1>
