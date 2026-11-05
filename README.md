@@ -1,6 +1,6 @@
 # Meus Projetos — AD05
 
-Bem-vinda ao meu repositório de projetos desenvolvidos durante o curso!
+Boas vindas ao meu repositório de projetos desenvolvidos durante o curso!
 
 ## 📁 Projetos Desenvolvidos
 
